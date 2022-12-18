@@ -4,10 +4,10 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="gh-readme-stats-cache.fly.dev/api/top-langs/?username=tuokri&layout=compact&theme=synthwave&langs_count=8&count_private=true&exclude_repo=github-readme-stats,DPP,mumble,UnrealEngine,pyspellchecker,ftp-tail,SquadJS,CnC_Remastered_Collection" />
+  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api/top-langs/?username=tuokri&layout=compact&theme=synthwave&langs_count=8&count_private=true&exclude_repo=github-readme-stats,DPP,mumble,UnrealEngine,pyspellchecker,ftp-tail,SquadJS,CnC_Remastered_Collection" />
 </a>
 
 <!--
