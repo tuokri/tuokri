@@ -4,10 +4,10 @@
 -->
 
 <a href="https://github.com/tuokri/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true#gh-dark-mode-only" />
+  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true&hide_rank=true#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/tuokri/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=default&show_icons=true&include_all_commits=true#gh-light-mode-only" />
+  <img align="center" src="https://gh-readme-stats-cache.fly.dev/api?username=tuokri&count_private=true&theme=default&show_icons=true&include_all_commits=true&hide_rank=true#gh-light-mode-only" />
 </a>
 <a href="https://github.com/tuokri/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://gh-readme-stats-cache.fly.dev/api/top-langs/?username=tuokri&layout=compact&theme=synthwave&langs_count=10&count_private=true&size_weight=0.6&count_weight=0.4&exclude_repo=github-readme-stats,DPP,mumble,UnrealEngine,pyspellchecker,ftp-tail,SquadJS,CnC_Remastered_Collection,UDK-Lite,UE3-LibHTTP#gh-dark-mode-only" />
