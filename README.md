@@ -59,6 +59,6 @@ I am primarily interested in web, networking, embedded and video game programmin
 ### :writing_hand: Top languages on GitHub
 
 Please note that the list of my top GitHub languages it not a representation of my skill level in any of them.
-It simply represent the amount of code in my repos, which usually contains large amounts of boilerplate for
+It simply displays the amount of code in my repos, which usually contains large amounts of boilerplate for
 certain languages and also includes vendored code and contributions from other developers!
 
